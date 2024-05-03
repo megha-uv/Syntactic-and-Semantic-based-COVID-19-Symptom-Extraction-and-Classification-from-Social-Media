@@ -38,6 +38,12 @@ Machine learning classifiers, including Decision Tree Classifier, Ada Boost Clas
 - Sample Output files:
   - The `Output files/final_tags.txt` shows the integrated tags output genrated by BERT and MLP for the input clinical text.
 
+## References
+- Luo, X., Gandhi, P., Storey, S., & Huang, K. (2022). A Deep Language Model for Symptom  Extraction From Clinical Text and its Application to Extract COVID-19 Symptoms From Social Media. IEEE Journal of Biomedical and Health Informatics, 26(4), 1737–1748
+
+- Amir Yasseen Mahdi And Siti Sophiayati Yuhaniz, “Automatic Diagnosis of COVID-19 Patients from Unstructured Data Based on a Novel Weighting Scheme,” C. Mater. Contin., vol. 74, no. 1, pp. 1375–1392, 2023, doi: 10.32604/cmc.2023.032671.
+  
+
 
 
 
